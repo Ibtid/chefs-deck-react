@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e89233222f6310954a50bc96e430432b",
+    "revision": "0f44337919226161af139e67a465b9b4",
     "url": "/chefs-deck-react/index.html"
   },
   {
-    "revision": "a1df5fcf1d7346d2c7ed",
-    "url": "/chefs-deck-react/static/css/main.ebe16224.chunk.css"
+    "revision": "9ed86018bf1b22e9566f",
+    "url": "/chefs-deck-react/static/css/main.65f81138.chunk.css"
   },
   {
     "revision": "61e8b92bdcf25508b60a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chefs-deck-react/static/js/2.f036ab22.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a1df5fcf1d7346d2c7ed",
-    "url": "/chefs-deck-react/static/js/main.1df18afb.chunk.js"
+    "revision": "9ed86018bf1b22e9566f",
+    "url": "/chefs-deck-react/static/js/main.5747d680.chunk.js"
   },
   {
     "revision": "558304a6ecbfd687f150",
