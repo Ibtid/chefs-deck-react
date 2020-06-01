@@ -1,6 +1,6 @@
 .App {
   min-height: 100vh;
-  background-image: linear-gradient(to right, #434343 0%, black 100%);
+  background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
 }
 
 .shopName {
