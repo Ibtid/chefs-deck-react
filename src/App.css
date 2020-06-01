@@ -21,7 +21,7 @@
 
 .search-bar {
   background-color: rgb(247, 247, 248);
-  border: 0px;
+  border: 0;
   width: 50%;
   height: 30px;
   padding: 0 20px;
@@ -44,7 +44,7 @@
   width: 80px;
   border-radius: 5px;
   border: 0;
-  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+  background-image: linear-gradient(-60deg, #ff5858 0%, #f09819 100%);
   cursor: pointer;
   font-weight: bolder;
   font-size: small;
