@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { MdLink } from "react-icons/md";
 import "./recipe.css";
 
 const Recipe = ({ title, calories, image, ingredients, url }) => {
@@ -15,6 +16,7 @@ const Recipe = ({ title, calories, image, ingredients, url }) => {
       <div className="Link">
         <a href={url} target="blank" rel="noopener noreferer">
           Click to Get Recipe
+          <MdLink />
         </a>
       </div>
     </div>
