@@ -1,5 +1,6 @@
 import React, { Component, useEffect, useState } from "react";
 import Recipe from "./Recipe";
+import { MdSearch } from "react-icons/md";
 import "./App.css";
 
 const App = () => {
@@ -45,6 +46,7 @@ const App = () => {
         />
         <button className="search-button" type="submit">
           Search
+          <MdSearch />
         </button>
       </form>
       <div className="recipes">

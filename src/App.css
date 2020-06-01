@@ -40,13 +40,14 @@
 }
 
 .search-button {
-  height: 40px;
-  width: 60px;
+  height: 30px;
+  width: 80px;
   border-radius: 5px;
   border: 0;
   background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
   cursor: pointer;
   font-weight: bolder;
+  font-size: small;
 }
 
 .search-button:hover {
