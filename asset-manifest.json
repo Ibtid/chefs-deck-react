@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/chefs-deck-react/static/css/main.a713c506.chunk.css",
-    "main.js": "/chefs-deck-react/static/js/main.2a94d377.chunk.js",
-    "main.js.map": "/chefs-deck-react/static/js/main.2a94d377.chunk.js.map",
+    "main.css": "/chefs-deck-react/static/css/main.ba917a93.chunk.css",
+    "main.js": "/chefs-deck-react/static/js/main.58a4be90.chunk.js",
+    "main.js.map": "/chefs-deck-react/static/js/main.58a4be90.chunk.js.map",
     "runtime-main.js": "/chefs-deck-react/static/js/runtime-main.ceaae899.js",
     "runtime-main.js.map": "/chefs-deck-react/static/js/runtime-main.ceaae899.js.map",
     "static/js/2.f6a53600.chunk.js": "/chefs-deck-react/static/js/2.f6a53600.chunk.js",
     "static/js/2.f6a53600.chunk.js.map": "/chefs-deck-react/static/js/2.f6a53600.chunk.js.map",
     "index.html": "/chefs-deck-react/index.html",
-    "precache-manifest.4c213edfdf45aa6bfc0af60f539f11ce.js": "/chefs-deck-react/precache-manifest.4c213edfdf45aa6bfc0af60f539f11ce.js",
+    "precache-manifest.dc8225baca0058fd6fe2d6edbf0c729a.js": "/chefs-deck-react/precache-manifest.dc8225baca0058fd6fe2d6edbf0c729a.js",
     "service-worker.js": "/chefs-deck-react/service-worker.js",
-    "static/css/main.a713c506.chunk.css.map": "/chefs-deck-react/static/css/main.a713c506.chunk.css.map",
+    "static/css/main.ba917a93.chunk.css.map": "/chefs-deck-react/static/css/main.ba917a93.chunk.css.map",
     "static/js/2.f6a53600.chunk.js.LICENSE.txt": "/chefs-deck-react/static/js/2.f6a53600.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ceaae899.js",
     "static/js/2.f6a53600.chunk.js",
-    "static/css/main.a713c506.chunk.css",
-    "static/js/main.2a94d377.chunk.js"
+    "static/css/main.ba917a93.chunk.css",
+    "static/js/main.58a4be90.chunk.js"
   ]
 }
