@@ -9,7 +9,7 @@ const App = () => {
 
   const [recipes, setRecipes] = useState([]);
   const [search, setSearch] = useState("");
-  const [query, setQuery] = useState("chicken");
+  const [query, setQuery] = useState("");
 
   useEffect(() => {
     getRecipies();
@@ -35,7 +35,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1 className="shopName">--Chef's Deck--</h1>
+      <h1 className="shopName">Chef's Deck</h1>
       <form onSubmit={getSearch} className="search-form">
         <input
           className="search-bar"
@@ -46,7 +46,7 @@ const App = () => {
         />
         <button className="search-button" type="submit">
           Search
-          <MdSearch />
+          <MdSearch className="icon-search" />
         </button>
       </form>
       <div className="recipes">
