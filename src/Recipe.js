@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { MdLink } from "react-icons/md";
+import { MdLink, MdHttp } from "react-icons/md";
 import "./recipe.css";
 
 const Recipe = ({ title, calories, image, ingredients, url }) => {

@@ -35,7 +35,13 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1 className="shopName">Chef's Deck</h1>
+      <h1 className="shopName">
+        <img
+          src="https://image.flaticon.com/icons/svg/3026/3026994.svg"
+          class="image"
+        />
+        Chef's Deck
+      </h1>
       <form onSubmit={getSearch} className="search-form">
         <input
           className="search-bar"
@@ -49,6 +55,9 @@ const App = () => {
           <MdSearch className="icon-search" />
         </button>
       </form>
+      {query !== "" && (
+        <h3 className="message-search">Search performed on {query}</h3>
+      )}
       <div className="recipes">
         {recipes.map((recipe) => (
           <Recipe
@@ -61,6 +70,7 @@ const App = () => {
           />
         ))}
       </div>
+      {query !== "" && <div className="message-end">End of results</div>}
     </div>
   );
 };
