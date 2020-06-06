@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/chefs-deck-react/static/css/main.ba917a93.chunk.css",
+    "main.css": "/chefs-deck-react/static/css/main.f995d32d.chunk.css",
     "main.js": "/chefs-deck-react/static/js/main.58a4be90.chunk.js",
     "main.js.map": "/chefs-deck-react/static/js/main.58a4be90.chunk.js.map",
     "runtime-main.js": "/chefs-deck-react/static/js/runtime-main.ceaae899.js",
@@ -8,15 +8,15 @@
     "static/js/2.f6a53600.chunk.js": "/chefs-deck-react/static/js/2.f6a53600.chunk.js",
     "static/js/2.f6a53600.chunk.js.map": "/chefs-deck-react/static/js/2.f6a53600.chunk.js.map",
     "index.html": "/chefs-deck-react/index.html",
-    "precache-manifest.dc8225baca0058fd6fe2d6edbf0c729a.js": "/chefs-deck-react/precache-manifest.dc8225baca0058fd6fe2d6edbf0c729a.js",
+    "precache-manifest.f61ebcb0c6b1c00d9caf93f71c5ef3e8.js": "/chefs-deck-react/precache-manifest.f61ebcb0c6b1c00d9caf93f71c5ef3e8.js",
     "service-worker.js": "/chefs-deck-react/service-worker.js",
-    "static/css/main.ba917a93.chunk.css.map": "/chefs-deck-react/static/css/main.ba917a93.chunk.css.map",
+    "static/css/main.f995d32d.chunk.css.map": "/chefs-deck-react/static/css/main.f995d32d.chunk.css.map",
     "static/js/2.f6a53600.chunk.js.LICENSE.txt": "/chefs-deck-react/static/js/2.f6a53600.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ceaae899.js",
     "static/js/2.f6a53600.chunk.js",
-    "static/css/main.ba917a93.chunk.css",
+    "static/css/main.f995d32d.chunk.css",
     "static/js/main.58a4be90.chunk.js"
   ]
 }
