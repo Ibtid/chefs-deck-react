@@ -35,13 +35,15 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1 className="shopName">
-        <img
-          src="https://image.flaticon.com/icons/svg/3026/3026994.svg"
-          class="image"
-        />
-        Chef's Deck
-      </h1>
+      <div className="title-background">
+        <h1 className="shopName">
+          <img
+            src="https://image.flaticon.com/icons/svg/3026/3026994.svg"
+            class="image-title"
+          />
+          Chef's Deck
+        </h1>
+      </div>
       <form onSubmit={getSearch} className="search-form">
         <input
           className="search-bar"
