@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chefs-deck-react/precache-manifest.c32f822d771cc365bac671d807471eac.js"
+  "/chefs-deck-react/precache-manifest.b40083bfe16845f3c3029e802c3d8384.js"
 );
 
 self.addEventListener('message', (event) => {
