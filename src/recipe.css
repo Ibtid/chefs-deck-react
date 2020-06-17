@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Barlow&display=swap");
 .recipe {
   background-image: linear-gradient(-225deg, #e3fdf5 0%, #ffe6fa 100%);
-  margin: 25px 5px;
+  margin: 25px 15px;
   border-radius: 5%;
   display: flex;
   flex-direction: column;
