@@ -9,7 +9,7 @@
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
     url("https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758_1280.jpg");
   background-size: cover;
-  border: 20px solid thistle;
+  border-bottom: 20px solid thistle;
 }
 
 .shopName {
@@ -63,6 +63,7 @@
   cursor: pointer;
   font-weight: bolder;
   font-size: 15px;
+  transition: all 0.2s linear;
 }
 
 .search-button:hover {

@@ -12,7 +12,9 @@ const Recipe = ({ title, calories, image, ingredients, url }) => {
         ))}
       </ol>
       <p>Calories: {calories}</p>
+
       <img className="image" src={image} alt="" />
+
       <div className="Link">
         <a href={url} target="blank" rel="noopener noreferer">
           Click to Get Recipe
